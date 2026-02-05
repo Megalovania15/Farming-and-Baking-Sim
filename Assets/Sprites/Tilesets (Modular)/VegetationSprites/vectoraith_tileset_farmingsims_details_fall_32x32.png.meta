@@ -1,0 +1,2256 @@
+fileFormatVersion: 2
+guid: d94d3fed009bb23498b332ba0edb5ac1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2627706048206801768
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_0
+  - first:
+      213: 3425616251995240648
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_1
+  - first:
+      213: -1323483983127091734
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_2
+  - first:
+      213: -3616144973996890183
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_3
+  - first:
+      213: -404429611050661896
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_4
+  - first:
+      213: 4904822136811423298
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_5
+  - first:
+      213: -5924506976042234340
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_6
+  - first:
+      213: 1877045222661554033
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_7
+  - first:
+      213: 569322885366060053
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_8
+  - first:
+      213: 4270894372638202237
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_9
+  - first:
+      213: -2748226592243636260
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_10
+  - first:
+      213: 2306468271531765304
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_11
+  - first:
+      213: -5962587505633978390
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_12
+  - first:
+      213: 4234255351018011711
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_13
+  - first:
+      213: -7563088866245108503
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_14
+  - first:
+      213: -1169100806599196828
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_15
+  - first:
+      213: 2001873043175674822
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_16
+  - first:
+      213: 923203527859223023
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_17
+  - first:
+      213: 5674401887109419569
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_18
+  - first:
+      213: -2682151349008581486
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_19
+  - first:
+      213: -2933729493766276825
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_20
+  - first:
+      213: -7016253290691846062
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_21
+  - first:
+      213: 184620758424066216
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_22
+  - first:
+      213: -7278134796450074394
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_23
+  - first:
+      213: -174892537932140742
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_24
+  - first:
+      213: -1360165960659574142
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_25
+  - first:
+      213: -1156902358230617355
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_26
+  - first:
+      213: -8499903258480052947
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_27
+  - first:
+      213: -2085282220217537572
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_28
+  - first:
+      213: 8791419007433794998
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_29
+  - first:
+      213: -8036850304457185996
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_30
+  - first:
+      213: -2235373473466583220
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_31
+  - first:
+      213: -8891625017839365181
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_32
+  - first:
+      213: 6013367097985312773
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_33
+  - first:
+      213: 2856920317689285063
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_34
+  - first:
+      213: 5157667972143107030
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_35
+  - first:
+      213: -8723757005718285648
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_36
+  - first:
+      213: -113873356988803732
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_37
+  - first:
+      213: 4334880523443511453
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_38
+  - first:
+      213: -5740392632957670581
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_39
+  - first:
+      213: 7309291329236247989
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_40
+  - first:
+      213: 1040277860994423143
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_41
+  - first:
+      213: -9172138388980794456
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_42
+  - first:
+      213: -7277319287463429482
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_43
+  - first:
+      213: 8192147067779153889
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_44
+  - first:
+      213: -2720111537840977219
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_45
+  - first:
+      213: -7009089178548988860
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_46
+  - first:
+      213: -1258541133908566708
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_47
+  - first:
+      213: -6819024539888107196
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_48
+  - first:
+      213: -50694885894851921
+    second: vectoraith_tileset_farmingsims_details_fall_32x32_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: 8}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894fc767543888bd0800000000000000
+      internalID: -2627706048206801768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 4}
+        - {x: 16, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: 2}
+        - {x: 14, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c83bfcd4db3a8f20800000000000000
+      internalID: 3425616251995240648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: -6, y: -6}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae56ac7545a02ade0800000000000000
+      internalID: -1323483983127091734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -6}
+        - {x: -6, y: -6}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -12}
+        - {x: 16, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7e9982e4fd0ddc0800000000000000
+      internalID: -3616144973996890183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -6, y: -12}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -12}
+        - {x: 16, y: -12}
+        - {x: 16, y: -6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f70da8596d236af0800000000000000
+      internalID: -404429611050661896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -12}
+        - {x: -6, y: -12}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2460e1f1fbd611440800000000000000
+      internalID: 4904822136811423298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7290f99765cd9d0800000000000000
+      internalID: -2748226592243636260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2c5a3ca8320020800000000000000
+      internalID: 2306468271531765304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae711883142a04da0800000000000000
+      internalID: -5962587505633978390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3cb9b5cec813ca30800000000000000
+      internalID: 4234255351018011711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -12}
+        - {x: 16, y: -12}
+        - {x: 16, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ec9fb24fb28a0790800000000000000
+      internalID: -7563088866245108503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -12}
+        - {x: 16, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -6, y: -6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -12}
+        - {x: -6, y: -12}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+        - {x: 6, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f3804b20586cfe0800000000000000
+      internalID: -1169100806599196828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -6, y: -6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -12}
+        - {x: -6, y: -12}
+        - {x: -6, y: -16}
+        - {x: 6, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c39ae72de418cb10800000000000000
+      internalID: 2001873043175674822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9bf6d97b0efcc00800000000000000
+      internalID: 923203527859223023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13296f9b3768fbe40800000000000000
+      internalID: 5674401887109419569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c32880f8517cad0800000000000000
+      internalID: -2682151349008581486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72979f8a19c4947d0800000000000000
+      internalID: -2933729493766276825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250a52a4ec241ae90800000000000000
+      internalID: -7016253290691846062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.50572014, y: 0.3827629}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a897040a97ef8200800000000000000
+      internalID: 184620758424066216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4084983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0fe2eb6fedefa90800000000000000
+      internalID: -7278134796450074394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49428082, y: 0.4084983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f20b2d928a29df0800000000000000
+      internalID: -174892537932140742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 282ee47e348bf1de0800000000000000
+      internalID: -1360165960659574142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: -8, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f23ad94f6bd1ffe0800000000000000
+      internalID: -1156902358230617355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d257c1555074a0a80800000000000000
+      internalID: -8499903258480052947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_28
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 16}
+        - {x: 8, y: 16}
+        - {x: 8, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbee777ed69f03e0800000000000000
+      internalID: -2085282220217537572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -12}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -6, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b565b12205610a70800000000000000
+      internalID: 8791419007433794998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -6}
+        - {x: 6, y: -6}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -6, y: -12}
+        - {x: 16, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435e6d9aa3f577090800000000000000
+      internalID: -8036850304457185996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -6}
+        - {x: 5, y: -6}
+        - {x: 5, y: 16}
+        - {x: -6, y: 16}
+        - {x: -6, y: -6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -12}
+        - {x: 16, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4771bd5bab5af0e0800000000000000
+      internalID: -2235373473466583220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_32
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -12}
+        - {x: 6, y: 16}
+        - {x: -6, y: 16}
+        - {x: -6, y: -6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c355b7f72a9a9480800000000000000
+      internalID: -8891625017839365181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c651d4ff8c07b6ef0800000000000000
+      internalID: -113873356988803732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_38
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: -6, y: -6}
+        - {x: -6, y: -12}
+        - {x: 6, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d902c9f6ed6982c30800000000000000
+      internalID: 4334880523443511453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -6}
+        - {x: -6, y: -6}
+        - {x: -6, y: -12}
+        - {x: 16, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4be94170570650b0800000000000000
+      internalID: -5740392632957670581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_40
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 16, y: -6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -12}
+        - {x: 16, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b528f6dcb1df6560800000000000000
+      internalID: 7309291329236247989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 6, y: -6}
+        - {x: -16, y: -6}
+        - {x: -16, y: -12}
+        - {x: 6, y: -12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7699644f33fcf6e00800000000000000
+      internalID: 1040277860994423143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ab73163bb406b080800000000000000
+      internalID: -9172138388980794456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_43
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ab4a93aa4c10b90800000000000000
+      internalID: -7277319287463429482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_44
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1effbb2ba5a50b170800000000000000
+      internalID: 8192147067779153889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_45
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 64
+      alignment: 9
+      pivot: {x: 0.49428082, y: 0.4084983}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba0c85d7f8304ad0800000000000000
+      internalID: -2720111537840977219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4449d812786babe90800000000000000
+      internalID: -7009089178548988860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_47
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d992ab183c88ee0800000000000000
+      internalID: -1258541133908566708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_48
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4414c494f45fd51a0800000000000000
+      internalID: -6819024539888107196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2fe461545eb4ff0800000000000000
+      internalID: -50694885894851921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881418f071fcb248b7604f4e18990bf
+      internalID: -742015788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_51
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0e169df1de4084aaf6e1c4d2e2c4cb
+      internalID: -666988883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_53
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a30efe8fe396d499df3bab38e774a4
+      internalID: 236654470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5556fbf751ae02e49b31f886d73a39eb
+      internalID: 1545475604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_56
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b8eaeda9eb8c2428f252d9bc900b12
+      internalID: -727075670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396ffb3c6ca8b214682babf363f2d025
+      internalID: 80480649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2fe3a4c167671448356603456b86d1
+      internalID: -285782202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_70
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30654bfbd33dc0d41b8025d85871cc93
+      internalID: 1506031362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_71
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56bb6620c17b4814ea9f5fb72cb204dd
+      internalID: -2064058359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_72
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0752135ad48e78046b825f0d533943b5
+      internalID: -1866306666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_73
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484c93d1f79d4764da5e579fa559f502
+      internalID: 1858763936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_74
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf68d34a3bda87428fe3e24bd9b952d
+      internalID: -1733739603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_75
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142beab8102753540b78f8536da8b27c
+      internalID: 114416170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_76
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6503c15b03b737746b1dbc8bd21a756c
+      internalID: -1145204851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_77
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb486079dfe783c4cafbb7222c5bceed
+      internalID: -144279812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd43c1fcff1f0e142b3c2733c29e1aba
+      internalID: 1627538694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa2b97fa56f94344f84cdd597e28552b
+      internalID: -1773985622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_96
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ee4a204661e3345bc477a441f0e754
+      internalID: -1029166883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3280575546499a54181f3f17c644916d
+      internalID: -1374999454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_98
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695cb5d41c58d884c89674402cb59e85
+      internalID: 1509317649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_99
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa393af73cba324b8334691ea0fc3f0
+      internalID: -223800272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7186c626d1021d54ebf9fa0dc7f8ddb1
+      internalID: -1539716100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_103
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579322d63ead5a34a94e33a723767542
+      internalID: -405117694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71e1ce34701abb4184e9278ed96c4d2
+      internalID: 1984458971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_107
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd31e1566d45a26438b6dd4bd3788533
+      internalID: 188406976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a1c498c3774c04dacf27dfbee203b2
+      internalID: -1110486924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_117
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0ab1100d1d92945ac161427ae75081
+      internalID: 669413334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_118
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d3844792ebc1ca4d9a2950739471ca7
+      internalID: -760527781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_119
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de40aa42181faa1498f8e63cb2a2c671
+      internalID: 1671719878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_120
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c166c998421d146bc3d919d84dbb41
+      internalID: 440234541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_122
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb32a0675c5131469ab2feb7c14ca77
+      internalID: 1195007547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_123
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fca74ae972468c4e93b31c112c2448c
+      internalID: -1704932641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_124
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d81073a8d79fb439cad685438c8058
+      internalID: 1420950543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_125
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d03770b072c84eb325dff8c3c5cc7
+      internalID: -770758058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_131
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d599c222dd3dc49a7f13e292fe0124
+      internalID: -960924848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_fall_32x32_133
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa0f97e4040b6340aac9cc36a564443
+      internalID: 1675444365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8b830b8cf0dc5ad49aa6749176971d05
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vectoraith_tileset_farmingsims_details_fall_32x32_0: -2627706048206801768
+      vectoraith_tileset_farmingsims_details_fall_32x32_1: 3425616251995240648
+      vectoraith_tileset_farmingsims_details_fall_32x32_10: -2748226592243636260
+      vectoraith_tileset_farmingsims_details_fall_32x32_100: -1539716100
+      vectoraith_tileset_farmingsims_details_fall_32x32_101: 1659249180
+      vectoraith_tileset_farmingsims_details_fall_32x32_102: 1824299231
+      vectoraith_tileset_farmingsims_details_fall_32x32_103: -405117694
+      vectoraith_tileset_farmingsims_details_fall_32x32_104: -880711469
+      vectoraith_tileset_farmingsims_details_fall_32x32_105: 830995293
+      vectoraith_tileset_farmingsims_details_fall_32x32_106: 1984458971
+      vectoraith_tileset_farmingsims_details_fall_32x32_107: 188406976
+      vectoraith_tileset_farmingsims_details_fall_32x32_108: 1527920401
+      vectoraith_tileset_farmingsims_details_fall_32x32_109: -941956257
+      vectoraith_tileset_farmingsims_details_fall_32x32_11: 2306468271531765304
+      vectoraith_tileset_farmingsims_details_fall_32x32_110: -182898048
+      vectoraith_tileset_farmingsims_details_fall_32x32_111: 1749590918
+      vectoraith_tileset_farmingsims_details_fall_32x32_112: -1754960000
+      vectoraith_tileset_farmingsims_details_fall_32x32_113: 1539057168
+      vectoraith_tileset_farmingsims_details_fall_32x32_114: -1110486924
+      vectoraith_tileset_farmingsims_details_fall_32x32_115: 555669996
+      vectoraith_tileset_farmingsims_details_fall_32x32_116: -393059960
+      vectoraith_tileset_farmingsims_details_fall_32x32_117: 669413334
+      vectoraith_tileset_farmingsims_details_fall_32x32_118: -760527781
+      vectoraith_tileset_farmingsims_details_fall_32x32_119: 1671719878
+      vectoraith_tileset_farmingsims_details_fall_32x32_12: -5962587505633978390
+      vectoraith_tileset_farmingsims_details_fall_32x32_120: 440234541
+      vectoraith_tileset_farmingsims_details_fall_32x32_121: -1523814810
+      vectoraith_tileset_farmingsims_details_fall_32x32_122: 1195007547
+      vectoraith_tileset_farmingsims_details_fall_32x32_123: -1704932641
+      vectoraith_tileset_farmingsims_details_fall_32x32_124: 1420950543
+      vectoraith_tileset_farmingsims_details_fall_32x32_125: -770758058
+      vectoraith_tileset_farmingsims_details_fall_32x32_126: -305448279
+      vectoraith_tileset_farmingsims_details_fall_32x32_127: 1028124136
+      vectoraith_tileset_farmingsims_details_fall_32x32_128: 2011565569
+      vectoraith_tileset_farmingsims_details_fall_32x32_129: 2060800302
+      vectoraith_tileset_farmingsims_details_fall_32x32_13: 4234255351018011711
+      vectoraith_tileset_farmingsims_details_fall_32x32_130: 372676111
+      vectoraith_tileset_farmingsims_details_fall_32x32_131: -960924848
+      vectoraith_tileset_farmingsims_details_fall_32x32_132: 812317230
+      vectoraith_tileset_farmingsims_details_fall_32x32_133: 1675444365
+      vectoraith_tileset_farmingsims_details_fall_32x32_14: -7563088866245108503
+      vectoraith_tileset_farmingsims_details_fall_32x32_15: -1169100806599196828
+      vectoraith_tileset_farmingsims_details_fall_32x32_16: 2001873043175674822
+      vectoraith_tileset_farmingsims_details_fall_32x32_17: 923203527859223023
+      vectoraith_tileset_farmingsims_details_fall_32x32_18: 5674401887109419569
+      vectoraith_tileset_farmingsims_details_fall_32x32_19: -2682151349008581486
+      vectoraith_tileset_farmingsims_details_fall_32x32_2: -1323483983127091734
+      vectoraith_tileset_farmingsims_details_fall_32x32_20: -2933729493766276825
+      vectoraith_tileset_farmingsims_details_fall_32x32_21: -7016253290691846062
+      vectoraith_tileset_farmingsims_details_fall_32x32_22: 184620758424066216
+      vectoraith_tileset_farmingsims_details_fall_32x32_23: -7278134796450074394
+      vectoraith_tileset_farmingsims_details_fall_32x32_24: -174892537932140742
+      vectoraith_tileset_farmingsims_details_fall_32x32_25: -1360165960659574142
+      vectoraith_tileset_farmingsims_details_fall_32x32_26: -1156902358230617355
+      vectoraith_tileset_farmingsims_details_fall_32x32_27: -8499903258480052947
+      vectoraith_tileset_farmingsims_details_fall_32x32_28: -2085282220217537572
+      vectoraith_tileset_farmingsims_details_fall_32x32_29: 8791419007433794998
+      vectoraith_tileset_farmingsims_details_fall_32x32_3: -3616144973996890183
+      vectoraith_tileset_farmingsims_details_fall_32x32_30: -8036850304457185996
+      vectoraith_tileset_farmingsims_details_fall_32x32_31: -2235373473466583220
+      vectoraith_tileset_farmingsims_details_fall_32x32_32: -8891625017839365181
+      vectoraith_tileset_farmingsims_details_fall_32x32_33: 6013367097985312773
+      vectoraith_tileset_farmingsims_details_fall_32x32_34: 2856920317689285063
+      vectoraith_tileset_farmingsims_details_fall_32x32_35: 5157667972143107030
+      vectoraith_tileset_farmingsims_details_fall_32x32_36: -8723757005718285648
+      vectoraith_tileset_farmingsims_details_fall_32x32_37: -113873356988803732
+      vectoraith_tileset_farmingsims_details_fall_32x32_38: 4334880523443511453
+      vectoraith_tileset_farmingsims_details_fall_32x32_39: -5740392632957670581
+      vectoraith_tileset_farmingsims_details_fall_32x32_4: -404429611050661896
+      vectoraith_tileset_farmingsims_details_fall_32x32_40: 7309291329236247989
+      vectoraith_tileset_farmingsims_details_fall_32x32_41: 1040277860994423143
+      vectoraith_tileset_farmingsims_details_fall_32x32_42: -9172138388980794456
+      vectoraith_tileset_farmingsims_details_fall_32x32_43: -7277319287463429482
+      vectoraith_tileset_farmingsims_details_fall_32x32_44: 8192147067779153889
+      vectoraith_tileset_farmingsims_details_fall_32x32_45: -2720111537840977219
+      vectoraith_tileset_farmingsims_details_fall_32x32_46: -7009089178548988860
+      vectoraith_tileset_farmingsims_details_fall_32x32_47: -1258541133908566708
+      vectoraith_tileset_farmingsims_details_fall_32x32_48: -6819024539888107196
+      vectoraith_tileset_farmingsims_details_fall_32x32_49: -50694885894851921
+      vectoraith_tileset_farmingsims_details_fall_32x32_5: 4904822136811423298
+      vectoraith_tileset_farmingsims_details_fall_32x32_50: -742015788
+      vectoraith_tileset_farmingsims_details_fall_32x32_51: -666988883
+      vectoraith_tileset_farmingsims_details_fall_32x32_52: -1557434585
+      vectoraith_tileset_farmingsims_details_fall_32x32_53: 236654470
+      vectoraith_tileset_farmingsims_details_fall_32x32_54: 1545475604
+      vectoraith_tileset_farmingsims_details_fall_32x32_55: -1687418686
+      vectoraith_tileset_farmingsims_details_fall_32x32_56: -727075670
+      vectoraith_tileset_farmingsims_details_fall_32x32_57: -1418221065
+      vectoraith_tileset_farmingsims_details_fall_32x32_58: 885669228
+      vectoraith_tileset_farmingsims_details_fall_32x32_59: 573585363
+      vectoraith_tileset_farmingsims_details_fall_32x32_6: -5924506976042234340
+      vectoraith_tileset_farmingsims_details_fall_32x32_60: -867255746
+      vectoraith_tileset_farmingsims_details_fall_32x32_61: -944805700
+      vectoraith_tileset_farmingsims_details_fall_32x32_62: -893507631
+      vectoraith_tileset_farmingsims_details_fall_32x32_63: -896078382
+      vectoraith_tileset_farmingsims_details_fall_32x32_64: 80480649
+      vectoraith_tileset_farmingsims_details_fall_32x32_65: 595468610
+      vectoraith_tileset_farmingsims_details_fall_32x32_66: 651542047
+      vectoraith_tileset_farmingsims_details_fall_32x32_67: -285782202
+      vectoraith_tileset_farmingsims_details_fall_32x32_68: 996078128
+      vectoraith_tileset_farmingsims_details_fall_32x32_69: 1807601863
+      vectoraith_tileset_farmingsims_details_fall_32x32_7: 1877045222661554033
+      vectoraith_tileset_farmingsims_details_fall_32x32_70: 1506031362
+      vectoraith_tileset_farmingsims_details_fall_32x32_71: -2064058359
+      vectoraith_tileset_farmingsims_details_fall_32x32_72: -1866306666
+      vectoraith_tileset_farmingsims_details_fall_32x32_73: 1858763936
+      vectoraith_tileset_farmingsims_details_fall_32x32_74: -1733739603
+      vectoraith_tileset_farmingsims_details_fall_32x32_75: 114416170
+      vectoraith_tileset_farmingsims_details_fall_32x32_76: -1145204851
+      vectoraith_tileset_farmingsims_details_fall_32x32_77: -144279812
+      vectoraith_tileset_farmingsims_details_fall_32x32_78: 1627538694
+      vectoraith_tileset_farmingsims_details_fall_32x32_79: -1277392325
+      vectoraith_tileset_farmingsims_details_fall_32x32_8: 569322885366060053
+      vectoraith_tileset_farmingsims_details_fall_32x32_80: 697887774
+      vectoraith_tileset_farmingsims_details_fall_32x32_81: -206010741
+      vectoraith_tileset_farmingsims_details_fall_32x32_82: 1990858636
+      vectoraith_tileset_farmingsims_details_fall_32x32_83: -2105867855
+      vectoraith_tileset_farmingsims_details_fall_32x32_84: 1677896922
+      vectoraith_tileset_farmingsims_details_fall_32x32_85: -1240795156
+      vectoraith_tileset_farmingsims_details_fall_32x32_86: 1748986118
+      vectoraith_tileset_farmingsims_details_fall_32x32_87: 1716735883
+      vectoraith_tileset_farmingsims_details_fall_32x32_88: -1198110519
+      vectoraith_tileset_farmingsims_details_fall_32x32_89: -1773985622
+      vectoraith_tileset_farmingsims_details_fall_32x32_9: 4270894372638202237
+      vectoraith_tileset_farmingsims_details_fall_32x32_90: -603518793
+      vectoraith_tileset_farmingsims_details_fall_32x32_91: -1313579779
+      vectoraith_tileset_farmingsims_details_fall_32x32_92: -1436530096
+      vectoraith_tileset_farmingsims_details_fall_32x32_93: 1733968611
+      vectoraith_tileset_farmingsims_details_fall_32x32_94: -2082732167
+      vectoraith_tileset_farmingsims_details_fall_32x32_95: 1855501642
+      vectoraith_tileset_farmingsims_details_fall_32x32_96: -1029166883
+      vectoraith_tileset_farmingsims_details_fall_32x32_97: -1374999454
+      vectoraith_tileset_farmingsims_details_fall_32x32_98: 1509317649
+      vectoraith_tileset_farmingsims_details_fall_32x32_99: -223800272
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

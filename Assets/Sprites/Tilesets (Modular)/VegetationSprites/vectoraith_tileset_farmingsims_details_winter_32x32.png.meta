@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: b3376a15399774040bf7692b1e282ff2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5244490878663533488
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_0
+  - first:
+      213: -2048907208218132710
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_1
+  - first:
+      213: 5206683430014092140
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_2
+  - first:
+      213: 8493175146142676113
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_3
+  - first:
+      213: -3047326076670607729
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_4
+  - first:
+      213: -2816992824568997805
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_5
+  - first:
+      213: -1205000132846680481
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_6
+  - first:
+      213: 5717126978987291492
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_7
+  - first:
+      213: -8119632860741954557
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_8
+  - first:
+      213: -6155435873614825517
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_9
+  - first:
+      213: -8748420463322868392
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_10
+  - first:
+      213: 512706483154176458
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_11
+  - first:
+      213: -2145537234350818253
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_12
+  - first:
+      213: -501137475988209803
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_13
+  - first:
+      213: -2641138915001108971
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_14
+  - first:
+      213: 8922476345805284181
+    second: vectoraith_tileset_farmingsims_details_winter_32x32_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 415
+        width: 129
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3248aeaac28c840800000000000000
+      internalID: 5244490878663533488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 417
+        width: 14
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fbb6cefb1d093e0800000000000000
+      internalID: -2048907208218132710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 417
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6307ef4efad14840800000000000000
+      internalID: 5206683430014092140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 351
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 194b201fbc1ddd570800000000000000
+      internalID: 8493175146142676113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 385
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e73452419b5b5d0800000000000000
+      internalID: -3047326076670607729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 385
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3589dbc73f708e8d0800000000000000
+      internalID: -2816992824568997805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 385
+        width: 78
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f56006773caf64fe0800000000000000
+      internalID: -1205000132846680481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 129
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463f65e52b0575f40800000000000000
+      internalID: 5717126978987291492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 321
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30413eccee4415f80800000000000000
+      internalID: -8119632860741954557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 351
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d7fd739faf739aa0800000000000000
+      internalID: -6155435873614825517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855d1e190fd579680800000000000000
+      internalID: -8748420463322868392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 223
+        width: 76
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c17a74df7d1700800000000000000
+      internalID: 512706483154176458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 261
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c352eb0458932e0800000000000000
+      internalID: -2145537234350818253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 127
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57f3618ee1a9b09f0800000000000000
+      internalID: -501137475988209803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 129
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516f5e0762ac85bd0800000000000000
+      internalID: -2641138915001108971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_details_winter_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5
+        width: 129
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ac8496f003db70800000000000000
+      internalID: 8922476345805284181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vectoraith_tileset_farmingsims_details_winter_32x32_0: 5244490878663533488
+      vectoraith_tileset_farmingsims_details_winter_32x32_1: -2048907208218132710
+      vectoraith_tileset_farmingsims_details_winter_32x32_10: -8748420463322868392
+      vectoraith_tileset_farmingsims_details_winter_32x32_11: 512706483154176458
+      vectoraith_tileset_farmingsims_details_winter_32x32_12: -2145537234350818253
+      vectoraith_tileset_farmingsims_details_winter_32x32_13: -501137475988209803
+      vectoraith_tileset_farmingsims_details_winter_32x32_14: -2641138915001108971
+      vectoraith_tileset_farmingsims_details_winter_32x32_15: 8922476345805284181
+      vectoraith_tileset_farmingsims_details_winter_32x32_2: 5206683430014092140
+      vectoraith_tileset_farmingsims_details_winter_32x32_3: 8493175146142676113
+      vectoraith_tileset_farmingsims_details_winter_32x32_4: -3047326076670607729
+      vectoraith_tileset_farmingsims_details_winter_32x32_5: -2816992824568997805
+      vectoraith_tileset_farmingsims_details_winter_32x32_6: -1205000132846680481
+      vectoraith_tileset_farmingsims_details_winter_32x32_7: 5717126978987291492
+      vectoraith_tileset_farmingsims_details_winter_32x32_8: -8119632860741954557
+      vectoraith_tileset_farmingsims_details_winter_32x32_9: -6155435873614825517
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 1e6c6174ee1edcd4a9f4ab66b09471c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9173118756483675526
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_0
+  - first:
+      213: -2679381337737473030
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_1
+  - first:
+      213: -7781468636010650743
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_2
+  - first:
+      213: 1597132943368124250
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_3
+  - first:
+      213: -6188838389233313140
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_4
+  - first:
+      213: 8637643708819575829
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_5
+  - first:
+      213: 5070439251700577138
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_6
+  - first:
+      213: -8369408605549848869
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_7
+  - first:
+      213: 3640352874302936286
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_8
+  - first:
+      213: -6424210750615915707
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_9
+  - first:
+      213: -366967562640282029
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_10
+  - first:
+      213: 6879413254904846202
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_11
+  - first:
+      213: -6468488567907931425
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_12
+  - first:
+      213: -8444584293655449962
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_13
+  - first:
+      213: 5804347014370311555
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_14
+  - first:
+      213: -8355164597322877441
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_15
+  - first:
+      213: -3638166125100004066
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_16
+  - first:
+      213: 4999601197561032282
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_17
+  - first:
+      213: 7298814862596338764
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_18
+  - first:
+      213: -3404696333930368253
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_19
+  - first:
+      213: 6987227278331478509
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_20
+  - first:
+      213: 1388750125017045332
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_21
+  - first:
+      213: -1339322660461401969
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_22
+  - first:
+      213: -7073412515035228392
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_23
+  - first:
+      213: -4807184092100109177
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_24
+  - first:
+      213: -7428303838960090911
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_25
+  - first:
+      213: 2351751285746804496
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_26
+  - first:
+      213: -2924721616763599006
+    second: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 469
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a415d971982b080800000000000000
+      internalID: -9173118756483675526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 467
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af3d85a8edce0dad0800000000000000
+      internalID: -2679381337737473030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 453
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983edb7e08ba20490800000000000000
+      internalID: -7781468636010650743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 453
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a57f78433f72a2610800000000000000
+      internalID: 1597132943368124250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_4
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 453
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a927d5644dc1aa0800000000000000
+      internalID: -6188838389233313140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 451
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514149060331fd770800000000000000
+      internalID: 8637643708819575829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 451
+        width: 30
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2737fc492a1dd5640800000000000000
+      internalID: 5070439251700577138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 451
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd69a1e5733e9db80800000000000000
+      internalID: -8369408605549848869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 457
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed416e9d6a1258230800000000000000
+      internalID: 3640352874302936286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_9
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 455
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 543fa47fb5e98d6a0800000000000000
+      internalID: -6424210750615915707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_10
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 399
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35e2cb032f448eaf0800000000000000
+      internalID: -366967562640282029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 385
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7797b918e5987f50800000000000000
+      internalID: 6879413254904846202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_12
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 385
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda2c244bef4b36a0800000000000000
+      internalID: -6468488567907931425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 385
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69ee2d4835fceca80800000000000000
+      internalID: -8444584293655449962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_14
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 389
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d34a85bde2d8050800000000000000
+      internalID: 5804347014370311555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_15
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 387
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff576a8f01e7c0c80800000000000000
+      internalID: -8355164597322877441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_16
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 387
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1d0e8f5f23a28dc0800000000000000
+      internalID: -3638166125100004066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_17
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 387
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5e2e37dcc6226540800000000000000
+      internalID: 4999601197561032282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_18
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 385
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44756e52799a4560800000000000000
+      internalID: 7298814862596338764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 325
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303710029b610c0d0800000000000000
+      internalID: -3404696333930368253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_20
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 323
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de10ed1903e97f060800000000000000
+      internalID: 6987227278331478509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 323
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4599b6b71e4d54310800000000000000
+      internalID: 1388750125017045332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_22
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 321
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f882197e225c96de0800000000000000
+      internalID: -1339322660461401969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 263
+        width: 22
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 817d58b4bc036dd90800000000000000
+      internalID: -7073412515035228392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_24
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 263
+        width: 98
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78cd67ca983794db0800000000000000
+      internalID: -4807184092100109177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_25
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 261
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e00d1be30d59e890800000000000000
+      internalID: -7428303838960090911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_26
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 259
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 017a103955913a020800000000000000
+      internalID: 2351751285746804496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vectoraith_tileset_farmingsims_crops_dense_spring_32x32_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 259
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26746e57f2d4967d0800000000000000
+      internalID: -2924721616763599006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_0: -9173118756483675526
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_1: -2679381337737473030
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_10: -366967562640282029
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_11: 6879413254904846202
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_12: -6468488567907931425
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_13: -8444584293655449962
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_14: 5804347014370311555
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_15: -8355164597322877441
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_16: -3638166125100004066
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_17: 4999601197561032282
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_18: 7298814862596338764
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_19: -3404696333930368253
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_2: -7781468636010650743
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_20: 6987227278331478509
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_21: 1388750125017045332
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_22: -1339322660461401969
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_23: -7073412515035228392
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_24: -4807184092100109177
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_25: -7428303838960090911
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_26: 2351751285746804496
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_27: -2924721616763599006
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_3: 1597132943368124250
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_4: -6188838389233313140
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_5: 8637643708819575829
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_6: 5070439251700577138
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_7: -8369408605549848869
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_8: 3640352874302936286
+      vectoraith_tileset_farmingsims_crops_dense_spring_32x32_9: -6424210750615915707
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

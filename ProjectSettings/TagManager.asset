@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 88037179
+    locked: 0
+  - name: Walk In Front
+    uniqueID: 1879417959
+    locked: 0
+  - name: Collision Layer
+    uniqueID: 725175345
+    locked: 0
+  - name: Details
+    uniqueID: 2966234787
+    locked: 0
+  - name: Bridges
+    uniqueID: 769293513
+    locked: 0
+  - name: UI
+    uniqueID: 108396173
+    locked: 0
+  m_RenderingLayers:
+  - Default

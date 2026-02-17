@@ -16,9 +16,18 @@
                     "initialStateCheck": true
                 },
                 {
-                    "name": "ThrowItem",
+                    "name": "DropItem",
                     "type": "Button",
                     "id": "3a0f64ff-d827-47cd-94c1-5ecd80566760",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "ToggleInventory",
+                    "type": "Button",
+                    "id": "376131c3-5214-4126-b34d-b1732c0326ce",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -165,7 +174,18 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "ThrowItem",
+                    "action": "DropItem",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "55d00582-3d04-4405-8d9a-89e9795475b7",
+                    "path": "<Keyboard>/i",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "ToggleInventory",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

@@ -6,8 +6,8 @@ public class ItemInstance
 {
     public string Name { get; private set; }
     public Sprite ItemIcon { get; private set; }
+    public int MaxStack { get; private set; }
     private string _description;
-    private int _maxStack;
     private GameObject _itemObject;
     private Quality itemQuality;
     public enum Quality
@@ -24,7 +24,7 @@ public class ItemInstance
         _description = item.Description;
         _itemObject = item.itemObject;
         ItemIcon = item.itemIcon;
-        _maxStack = item.maxStack;
+        MaxStack = item.maxStack;
         itemQuality = Quality.None;
     }
 

@@ -7,7 +7,7 @@ public class Inventory : MonoBehaviour, IStorage
     private int maxSize = 10;
 
     [SerializeField]
-    private List<ItemInstance> items = new();
+    private ItemInstance[] items;
 
     [SerializeField] private GameObject inventorySlots;
 
@@ -16,6 +16,7 @@ public class Inventory : MonoBehaviour, IStorage
     void Awake()
     {
         itemSlots = new InventorySlot[inventorySlots.transform.childCount];
+        items = new ItemInstance[inventorySlots.transform.childCount];
 
         for (int i = 0; i < inventorySlots.transform.childCount; i++)
         {
@@ -32,40 +33,66 @@ public class Inventory : MonoBehaviour, IStorage
 
     public bool AddItem(ItemInstance item)
     {
-        //need to check for an available slot
-        for (var i = 0; i < items.Count; i++)
+        //need to check for an available slot, could also use this to
+        //check whether the inventory slot already has this item.
+        for (var i = 0; i < items.Length; i++)
         {
-            if (items[i] == null)
+            if (items[i] is null)
             {
                 items[i] = item;
-                Debug.Log($"A slot is available");
+                UpdateItemDisplay(item);
+                Debug.Log($"Added {item.Name}");
                 return true;
             }
         }
 
         //adds an item if there is space
-        if (items.Count < maxSize)
+        /*if (items.Length < maxSize)
         {
             items.Add(item);
-            UpdateItemDisplay(item);
-            Debug.Log($"Added {item.Name}");
+            
             return true;
-        }
+        }*/
         //what happens if there isn't an available spot
         Debug.Log("There is no space in the inventory.");
         return false;
     }
 
-    public bool DropItem(ItemInstance item)
+    public void DropItem(ItemInstance itemToDrop)
     {
-        if (items.Contains(item))
+        ItemInstance newItem = null;
+
+        for (int i = 0; i < items.Length; i++)
         {
-            CreatePhysicalItem(item);
-            items.Remove(item);
-            return true;
+            if (ReferenceEquals(items[i], itemToDrop))
+            {
+                newItem = itemToDrop;
+                items[i] = null;
+                break;
+            }
         }
+
+        if (newItem is not null)
+        {
+            for (int i = 0; i < itemSlots.Length; i++)
+            {
+                if (ReferenceEquals(itemSlots[i], newItem))
+                {
+                    itemSlots[i].RemoveStoredItem();
+                    itemSlots[i].UpdateItemIcon();
+                    break;
+                }
+            }
+            CreatePhysicalItem(newItem);
+        }
+        
+        /*if (items.Contains(itemToDrop))
+        {
+            CreatePhysicalItem(itemToDrop);
+            items.Remove(itemToDrop);
+            return true;
+        }*/
         Debug.Log("The item is no longer in the inventory");
-        return false;
     }
 
     void UpdateItemDisplay(ItemInstance itemToUpdate)
@@ -74,10 +101,12 @@ public class Inventory : MonoBehaviour, IStorage
         {
             //we need to run through all the slots, and update them with an item
             //otherwise disable the remainder images and set the sprite on them to null.
-            if (itemSlots[i].ItemIcon.sprite == null)
+            if (itemSlots[i].StoredItem == null)
             {
-                itemSlots[i].ItemIcon.enabled = true;
-                itemSlots[i].ItemIcon.sprite = itemToUpdate.ItemIcon;
+                itemSlots[i].StoreItemInSlot(itemToUpdate);
+                itemSlots[i].UpdateItemIcon(itemToUpdate.ItemIcon);
+                itemSlots[i].AddToQuantity(1);
+                itemSlots[i].UpdateText();
                 break;
             }
         }

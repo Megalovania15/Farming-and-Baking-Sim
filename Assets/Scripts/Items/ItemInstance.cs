@@ -1,10 +1,13 @@
 using UnityEngine;
+using UnityEngine.UI;
 
 [System.Serializable]
 public class ItemInstance
 {
-    private string _name;
+    public string Name { get; private set; }
+    public Sprite ItemIcon { get; private set; }
     private string _description;
+    private int _maxStack;
     private GameObject _itemObject;
     private Quality itemQuality;
     public enum Quality
@@ -17,9 +20,11 @@ public class ItemInstance
 
     public ItemInstance(ItemData item)
     { 
-        _name = item.Name;
+        Name = item.Name;
         _description = item.Description;
         _itemObject = item.itemObject;
+        ItemIcon = item.itemIcon;
+        _maxStack = item.maxStack;
         itemQuality = Quality.None;
     }
 

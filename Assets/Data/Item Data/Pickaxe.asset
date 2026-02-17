@@ -14,3 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Pickaxe
   Description: Used to destroy rocks for stone.
+  maxStack: 1
+  itemIcon: {fileID: -8069930615726334631, guid: 1210ee857aacddf4bb8b37218bc1e9de, type: 3}
+  itemObject: {fileID: 6630343112148046923, guid: f3a5ff18572265c43888570ca020b48f, type: 3}

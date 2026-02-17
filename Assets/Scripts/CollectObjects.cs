@@ -1,4 +1,5 @@
 using System.Collections.Generic;
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class CollectObjects: MonoBehaviour
@@ -33,9 +34,14 @@ public class CollectObjects: MonoBehaviour
             {
                 var collectableInstance = collectible.GetItemInstance();
 
-                inventory.AddItem(collectableInstance);
-
-                collectible.DestroyObject();
+                if (inventory.AddItem(collectableInstance))
+                {
+                    collectible.DestroyObject();
+                }
+                else
+                {
+                    return;
+                }
             }
         }
     }

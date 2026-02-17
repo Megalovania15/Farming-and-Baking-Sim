@@ -14,4 +14,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Name: Apple
   Description: It's red and you can eat it.
+  maxStack: 20
+  itemIcon: {fileID: -1110486924, guid: d94d3fed009bb23498b332ba0edb5ac1, type: 3}
   itemObject: {fileID: 1926612492750778597, guid: 16f009fb89f173c4087b2d0b7e43312f, type: 3}

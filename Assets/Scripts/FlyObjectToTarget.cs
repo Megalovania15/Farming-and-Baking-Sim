@@ -10,7 +10,14 @@ public class FlyObjectToTarget : MonoBehaviour
     private ICollectible collectibleToMove;
 
     private List<ICollectible> objectsToCollect = new List<ICollectible>();
-    
+
+    private IStorage inventory;
+
+    void Awake()
+    {
+        inventory = GetComponentInParent<IStorage>();
+    }
+
     private void FixedUpdate()
     {
         if (objectsToCollect.Count > 0)
@@ -25,6 +32,8 @@ public class FlyObjectToTarget : MonoBehaviour
         }
     }
 
+    //gets the position of the collectible and uses the SmoothDamp function to make it "fly"
+    //to the player
     void FlyToPlayer(ICollectible collectible)
     {
         var initialPos = collectible.GetPosition();
@@ -32,14 +41,21 @@ public class FlyObjectToTarget : MonoBehaviour
             ref objectVelocity, collectionTime));
     }
 
+    //need to check the inventory to first see if there is space to add another item.
     void OnTriggerEnter2D(Collider2D collision)
     {
-        //can update to use interfaces instead of tags at a later stage
-        if (collision.gameObject.
-            TryGetComponent<ICollectible>(out ICollectible collectible))
+        if (collision.gameObject.TryGetComponent<ICollectible>(out ICollectible collectible))
         {
-            //collectibleToMove = collectible;
-            objectsToCollect.Add(collectible);
+            if (collectible is not null)
+            {
+                var collectibleInstance = collectible.GetItemInstance();
+
+                if (inventory.CanAddItem() && !collectible.ItemDropped)
+                {
+                    objectsToCollect.Add(collectible);
+                }
+            }
+            
         }
     }
 

@@ -32,6 +32,24 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "CursorPosition",
+                    "type": "Value",
+                    "id": "ec033a3b-8e81-421e-ac52-6442aff3596f",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Press",
+                    "type": "PassThrough",
+                    "id": "3f3f0cc2-e868-4719-8d2f-956aa41d275b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
                 }
             ],
             "bindings": [
@@ -186,6 +204,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "ToggleInventory",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "c0276b2a-3825-4b0d-a404-e93a4990b538",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "CursorPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "46c12980-7f8c-4eae-8236-fdc274a63034",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Press",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

@@ -9,21 +9,7 @@ public class CollectObjects: MonoBehaviour
     void Awake()
     {
         inventory = GetComponent<IStorage>();
-    }
-
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-
-    
+    }    
 
     void OnCollisionEnter2D(Collision2D collision)
     {
@@ -34,7 +20,7 @@ public class CollectObjects: MonoBehaviour
             {
                 var collectableInstance = collectible.GetItemInstance();
 
-                if (inventory.AddItem(collectableInstance))
+                if (!collectible.ItemDropped && inventory.AddItem(collectableInstance))
                 {
                     collectible.DestroyObject();
                 }

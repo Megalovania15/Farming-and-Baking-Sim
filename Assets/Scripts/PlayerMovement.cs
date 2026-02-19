@@ -9,6 +9,7 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 moveDir = Vector2.zero;
 
     private Rigidbody2D rb;
+    [SerializeField] GameObject inventoryUI;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
